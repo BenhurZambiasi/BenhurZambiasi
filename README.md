@@ -9,7 +9,7 @@
    </div>
     <br>
     <a href="https://github.com/BenhurZambiasi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenhurZambiasi&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenhurZambiasi&layout=compact&langs_count=7&theme=dracula"/>
     <br>
    <div> 
         <a href = "mailto:benhur.zambiasi@gmail.com">
